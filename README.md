@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/varshanagar009/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jagmohan123.github.io/New-PortFolio/">
+  <a href="https://varsha-nagar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:jagmohanrai082@gmail.com">
