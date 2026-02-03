@@ -31,20 +31,26 @@
   <a href="https://varsha-nagar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:jagmohanrai082@gmail.com">
+  <a href="nvarsha919@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💼 Work Experience
+### 💼Training and Internship
 
-🟢 **Full Stack Trainer** @ Dr. Reddy’s Foundation  
-🔵 **Technical Trainer** @ MGI  
-🔵 **Member Technical** @ ADP Pvt. Ltd.  
-🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
-🔴 **Graduate Engineer Trainee** @ HCL Pvt. Ltd.
+🟢 **Grow Tech** Mern Stack Intern  
+• Built mini-projects and exercises to strengthen skills in front-end design, backend API development, and
+  database integration.
+• Applied concepts of full-stack development, RESTful APIs, and state management while collaborating in a
+  structured internship environment.
+• Worked on debugging and optimizing code for better performance, learning how real applications handle errors
+  and efficiency.  
+🔴 **Universal Informatics**C, C++,DSA in java.  
+• Completed hands-on training in C, C++,DSA.
+• Gained strong understanding of problem-solving, logic building, and core programming concepts.
+• Implemented core programming concepts like loops, functions, pointers, array
 
 ---
 
